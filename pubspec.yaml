@@ -1,0 +1,4 @@
+name: glass_scroll
+description: A sample web application
+dependencies:
+  browser: any
